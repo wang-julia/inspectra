@@ -4,6 +4,8 @@ How many safe products are put at risk because medical-device compliance is stil
 
 Inspectra is a quality-management and inspection-readiness workspace for medical-device teams. It brings together supplier records, inspection records, lot traceability, nonconformance reports (NCRs), and corrective and preventive actions (CAPAs) into one workflow aligned with ISO 13485, the international quality-management standard for medical devices. It also supports document storage, evidence traceability, AI-assisted analysis, and exportable audit packets for inspection prep.
 
+Devpost: https://devpost.com/software/inspectra
+
 ## What It Does
 
 1. Upload supplier, inspection, lot, NCR, CAPA, and quality-system PDF documents and store the original files in MongoDB/GridFS 
@@ -21,8 +23,6 @@ Inspectra is a quality-management and inspection-readiness workspace for medical
 7. Support question answering with RAG by retrieving relevant MongoDB-stored document chunks and structured QMS context for the AI assistant.
 
 8. Generate inspection-ready outputs such as supplier inspection packets and ISO 13485 draft documents including the Approved Supplier List, Requalification Plan, Incoming Inspection Packet, NCR and CAPA Register, and Management Review Summary.
-
-Devpost: https://devpost.com/software/inspectra
 
 
 ## Stack

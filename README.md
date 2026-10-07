@@ -22,6 +22,7 @@ Inspectra is a quality-management and inspection-readiness workspace for medical
 
 8. Generate inspection-ready outputs such as supplier inspection packets and ISO 13485 draft documents including the Approved Supplier List, Requalification Plan, Incoming Inspection Packet, NCR and CAPA Register, and Management Review Summary.
 
+Devpost: https://devpost.com/software/inspectra
 
 
 ## Stack
